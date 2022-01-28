@@ -4,9 +4,11 @@
 
 You can check it out if they're come out as new avaiable sign-up activites for Freshmen/Sohopmore or Juniors/Seniors/Apartment. Once if you see avaaible to sign up below "button" which one you will be in Freshmen/Sohopmore or Juniors/Seniors/Apartment?
 
-You can use the [editor on GitHub](https://github.com/dylandavis9/fsdb-recreation-signup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Freshmen/Sohopmore:
+<a href="#" class="button big">Create Project</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Juniors/Seniors/Apartments:
+<a href="#" class="button big">Create Project</a>
 
 ### Markdown
 
