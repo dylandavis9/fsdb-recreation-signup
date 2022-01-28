@@ -38,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Having trouble with Pages or unavaiable sign-up? Please contact Dylan or Lia will help you out as soon as possible.
+Having trouble with Pages or unavaiable sign-up? Please contact Dylan or Lia will help you out as soon as possible or at least 24 hours...
