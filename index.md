@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FSDB Recreation Sign-up
 
 You can use the [editor on GitHub](https://github.com/dylandavis9/fsdb-recreation-signup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
