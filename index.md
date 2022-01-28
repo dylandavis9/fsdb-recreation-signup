@@ -2,7 +2,7 @@
 
 # Date: Friday, January 28th, 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You're able to see if they're avaiable buttom for your Freshmen/Sohopomore or Juniors/Senior/Apartments.
 
 ### Markdown
 
