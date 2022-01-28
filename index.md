@@ -1,5 +1,9 @@
 ## FSDB Recreation Sign-up
 
+# Date: Friday, January 28, 2022
+
+You can check it out if they're come out as new avaiable sign-up activites for Freshmen/Sohopmore or Juniors/Seniors/Apartment
+
 You can use the [editor on GitHub](https://github.com/dylandavis9/fsdb-recreation-signup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -32,6 +36,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dylandavis9/fsdb-recreation-signup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages or unavaiable sign-up? Please contact Dylan or Lia will help you out as soon as possible.
