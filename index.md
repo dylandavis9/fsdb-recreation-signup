@@ -2,7 +2,7 @@
 
 # Date: Friday, January 28, 2022
 
-You can check it out if they're come out as new avaiable sign-up activites for Freshmen/Sohopmore or Juniors/Seniors/Apartment
+You can check it out if they're come out as new avaiable sign-up activites for Freshmen/Sohopmore or Juniors/Seniors/Apartment. Once if you see avaaible to sign up below "button" which one you will be in Freshmen/Sohopmore or Juniors/Seniors/Apartment?
 
 You can use the [editor on GitHub](https://github.com/dylandavis9/fsdb-recreation-signup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
